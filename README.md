@@ -15,7 +15,7 @@ Desafio 08 - Animação para tela de descanço
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript e JSON
+
 
 ## 💻 Projeto
 
